@@ -3,7 +3,6 @@
 [![R](https://img.shields.io/badge/Language-R-276DC3.svg)](https://www.r-project.org/)
 [![Bioinformatics](https://img.shields.io/badge/Field-Bioinformatics-success.svg)]()
 [![Visualization](https://img.shields.io/badge/Focus-Visualization-orange.svg)]()
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ## 👋 Introduction
 
