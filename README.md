@@ -1,4 +1,4 @@
-# Biostat_Code
+# Zero BioStat_Code
 
 [![R](https://img.shields.io/badge/Language-R-276DC3.svg)](https://www.r-project.org/)
 [![Bioinformatics](https://img.shields.io/badge/Field-Bioinformatics-success.svg)]()
@@ -6,7 +6,7 @@
 
 ## 👋 Introduction
 
-Welcome to the official repository for the WeChat Official Account **Biostat_Code**.
+Welcome to the official repository for the WeChat Official Account **Zero BioStat**.
 
 Here, I share R scripts, reproducible codes, and sample datasets for:
 * 📊 **Data Visualization**
